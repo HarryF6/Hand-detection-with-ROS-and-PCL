@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launch>
+  <!-- Console launch prefix -->
+ 
+  <!--Nodes -->
+  <node name="Practica2" pkg="paquete_pcl" type="programa1" output="screen" cwd="node" />
+
+
+ 
+ 
+</launch>
