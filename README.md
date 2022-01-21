@@ -1,8 +1,9 @@
 # Hand-Detection-With-ROS---PCL
-En la entrega se adjuntan dos zips, el zip con el nombre “paquete_pcl” es donde se
-encuentran los códigos con los que se han realizado la práctica. El otro zip contiene un
-programa donde se han hecho las pruebas para poder obtener los mejores parámetros y el
-mejor método.
+Esta práctica consiste en analizar y seleccionar el mejor detector de objetos 3D que haga
+uso de características locales. El problema básico a resolver es simple, tengo un conjunto
+de vistas de objetos ya identificados y una vista de una escena donde pueden aparecer uno
+o más de estos objetos.
+
 
 Terminal 1:
 
