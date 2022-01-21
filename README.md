@@ -28,3 +28,5 @@ Terminal 4:
 Terminal 5:
 
 ● rosrun tf static_transform_publisher 0 0 0 0 0 0 map camera_depth_optical_frame 50
+
+Resultado: https://drive.google.com/file/d/17awh36si-uOyfmnfAYLXzlDTiJtDh2pB/view 
