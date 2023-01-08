@@ -1,5 +1,4 @@
 # Hand-Detection-With-ROS---PCL
-
 Hand detection with ros and pcl
 
 Esta práctica consiste en analizar y seleccionar el mejor detector de objetos 3D que haga
