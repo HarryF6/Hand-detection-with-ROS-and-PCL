@@ -29,4 +29,4 @@ Terminal 5:
 
 ● rosrun tf static_transform_publisher 0 0 0 0 0 0 map camera_depth_optical_frame 50
 
-Resultado: https://drive.google.com/file/d/17awh36si-uOyfmnfAYLXzlDTiJtDh2pB/view 
+Resultado: https://www.linkedin.com/posts/gonzalo-ferrando-alonso-54b77817a_robaejtica-ros-c-activity-6929749054012723200-CZCA?utm_source=share&utm_medium=member_desktop
